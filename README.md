@@ -1,0 +1,2 @@
+# project
+project jangka panjang
